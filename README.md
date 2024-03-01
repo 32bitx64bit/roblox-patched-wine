@@ -1,8 +1,4 @@
-This is a precompiled Patched wine using Vinegar's patches.
-
-I'll upload new precompiled versions of wine when I persoanlly switch. 
-
-Otherwise, enjoy not having to compile wine yourself! 
+Hey all. Roblox is rolling out a update to END roblox support on wine. So this repository is now useless. Switch to Windows if you still want to play roblox, or just abadon it.
 
 SEO purposes - Patched roblox wine
 
